@@ -10,7 +10,6 @@ For this calculator you will be able to solve the following conversions:
 * Sine to Cosine/Cosine to Sine                   
 * Tangent to Cotangent/Cotangent to Tangent                        
 * Cosecant to Secant/Secant to Cosecant                          
-* Volume of a Sphere                              
-* Volume of a Cylinder                            
+* Celsius to Fahrenheit/Fahrenheit to Celsius                       
 
 enjoy! :P
