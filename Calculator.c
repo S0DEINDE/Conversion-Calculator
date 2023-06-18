@@ -391,6 +391,6 @@ printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~CONVERSION~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     menu();
 
-    printf("Thanks for using my program %s!\n have a great rest of your day!\n", namer);
+    printf("~~~~~~~ THANKS FOR USING MY PROGRAM! ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
 
 }
